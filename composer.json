@@ -20,5 +20,12 @@
     "require-dev": {
         "phpunit/phpunit": "^9.6",
         "mockery/mockery": "^1.5"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Wwb\\Weather\\ServiceProvider"
+            ]
+        }
     }
 }
