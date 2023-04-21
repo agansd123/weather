@@ -12,7 +12,7 @@
 
 ### Laravel 使用方法
 
-1、在 config 目录下新建 service.php 配置文件，输入
+1、在 config 目录下新建 services.php 配置文件，输入
 
 ```php
 return [
